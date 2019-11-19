@@ -1,2 +1,2 @@
 # The-Football-Coach
-This is a project I created in \r\nassembly 8086.
+This is a project I created in assembly 8086.
