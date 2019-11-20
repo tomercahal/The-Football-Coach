@@ -8,5 +8,10 @@ Goals for the future of this project:
          2. Add some more documentation
          3. Make more routes 
          4. Add the ability to create your own routes by yourself
+## To Run: ##
+I used the DOSBOX emulator which you can get in [this link](https://sourceforge.net/projects/dosbox/files/dosbox/0.74/DOSBox0.74-win32-installer.exe/download?use_mirror=netix&r=&use_mirror=netix "Named link title")\
+To compile my code I used TASM assembler. Then I ran a TLINK.\
+However if you just want to run my game you can download the exe file and run it in the DOSBOX emulator.
 
+I hope you enjoy this project, and if you have and suggestions please let me know!
 
