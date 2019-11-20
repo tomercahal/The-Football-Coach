@@ -11,7 +11,10 @@ Goals for the future of this project:
 ## To Run: ##
 I used the DOSBOX emulator which you can get in [this link](https://sourceforge.net/projects/dosbox/files/dosbox/0.74/DOSBox0.74-win32-installer.exe/download?use_mirror=netix&r=&use_mirror=netix "Named link title")\
 To compile my code I used TASM assembler. Then I ran a TLINK.\
-However if you just want to run my game you can download the exe file and run it in the DOSBOX emulator.
+However if you just want to run my game you can download the exe file and run it in the DOSBOX emulator.\
+I recommend using `cycles = max`
 
 I hope you enjoy this project, and if you have and suggestions please let me know!
+
+[![The Football Coach Demonstration](https://i.ibb.co/N68HN58/https-i-ytimg-com-vi-9ex-U7g-Km-Bs8-hqdefault.jpg)](https://youtu.be/9exU7gKmBs8 "The Football Coach Demonstration")
 
